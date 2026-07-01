@@ -3,7 +3,7 @@ Welcome to my repository. This is a repository that is complete with all of the 
 
 The ASC can be plugged in via a USB-C or Micro-USB cable (depending on what cable came with your Arduino Leonardo/is compatible with it) to work with your PC.
 
-Before you go into this project, be ready to come up with your own solutions if things ever go wrong. The approximate build time is about 20-ish hours total over the span of ~1.5 weeks.
+Before you go into this project, be ready to come up with your own solutions if things ever go wrong. The approximate build time is about 20-ish hours total over the span of ~1.5 weeks, costing ~$100 as of July 1, 2026.
 
 I'd like to give credit to CrazyRedMachine and his repositories for making this all possible.
 
